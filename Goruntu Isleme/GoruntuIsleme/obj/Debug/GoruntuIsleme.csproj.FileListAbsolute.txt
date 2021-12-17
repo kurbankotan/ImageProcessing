@@ -1,0 +1,86 @@
+c:\users\kurban\documents\visual studio 2012\Projects\GoruntuIsleme\GoruntuIsleme\bin\Debug\GoruntuIsleme.exe.config
+c:\users\kurban\documents\visual studio 2012\Projects\GoruntuIsleme\GoruntuIsleme\bin\Debug\GoruntuIsleme.exe
+c:\users\kurban\documents\visual studio 2012\Projects\GoruntuIsleme\GoruntuIsleme\bin\Debug\GoruntuIsleme.pdb
+c:\users\kurban\documents\visual studio 2012\Projects\GoruntuIsleme\GoruntuIsleme\obj\Debug\GoruntuIsleme.csprojResolveAssemblyReference.cache
+c:\users\kurban\documents\visual studio 2012\Projects\GoruntuIsleme\GoruntuIsleme\obj\Debug\GoruntuIsleme.Form1.resources
+c:\users\kurban\documents\visual studio 2012\Projects\GoruntuIsleme\GoruntuIsleme\obj\Debug\GoruntuIsleme.Properties.Resources.resources
+c:\users\kurban\documents\visual studio 2012\Projects\GoruntuIsleme\GoruntuIsleme\obj\Debug\GoruntuIsleme.csproj.GenerateResource.Cache
+c:\users\kurban\documents\visual studio 2012\Projects\GoruntuIsleme\GoruntuIsleme\obj\Debug\GoruntuIsleme.exe
+c:\users\kurban\documents\visual studio 2012\Projects\GoruntuIsleme\GoruntuIsleme\obj\Debug\GoruntuIsleme.pdb
+c:\users\kurban\documents\visual studio 2012\Projects\GoruntuIsleme\GoruntuIsleme\obj\Debug\GoruntuIsleme.Form2.resources
+C:\Users\kurban\Desktop\GoruntuIsleme\GoruntuIsleme\bin\Debug\GoruntuIsleme.exe.config
+C:\Users\kurban\Desktop\GoruntuIsleme\GoruntuIsleme\bin\Debug\GoruntuIsleme.exe
+C:\Users\kurban\Desktop\GoruntuIsleme\GoruntuIsleme\bin\Debug\GoruntuIsleme.pdb
+C:\Users\kurban\Desktop\GoruntuIsleme\GoruntuIsleme\obj\Debug\GoruntuIsleme.csprojResolveAssemblyReference.cache
+C:\Users\kurban\Desktop\GoruntuIsleme\GoruntuIsleme\obj\Debug\GoruntuIsleme.Form1.resources
+C:\Users\kurban\Desktop\GoruntuIsleme\GoruntuIsleme\obj\Debug\GoruntuIsleme.Form2.resources
+C:\Users\kurban\Desktop\GoruntuIsleme\GoruntuIsleme\obj\Debug\GoruntuIsleme.Properties.Resources.resources
+C:\Users\kurban\Desktop\GoruntuIsleme\GoruntuIsleme\obj\Debug\GoruntuIsleme.csproj.GenerateResource.Cache
+C:\Users\kurban\Desktop\GoruntuIsleme\GoruntuIsleme\obj\Debug\GoruntuIsleme.exe
+C:\Users\kurban\Desktop\GoruntuIsleme\GoruntuIsleme\obj\Debug\GoruntuIsleme.pdb
+C:\Users\kurban\Box Sync\C# Training\GoruntuIsleme\GoruntuIsleme\bin\Debug\GoruntuIsleme.exe.config
+C:\Users\kurban\Box Sync\C# Training\GoruntuIsleme\GoruntuIsleme\bin\Debug\GoruntuIsleme.exe
+C:\Users\kurban\Box Sync\C# Training\GoruntuIsleme\GoruntuIsleme\bin\Debug\GoruntuIsleme.pdb
+C:\Users\kurban\Box Sync\C# Training\GoruntuIsleme\GoruntuIsleme\obj\Debug\GoruntuIsleme.csprojResolveAssemblyReference.cache
+C:\Users\kurban\Box Sync\C# Training\GoruntuIsleme\GoruntuIsleme\obj\Debug\GoruntuIsleme.Form1.resources
+C:\Users\kurban\Box Sync\C# Training\GoruntuIsleme\GoruntuIsleme\obj\Debug\GoruntuIsleme.Form2.resources
+C:\Users\kurban\Box Sync\C# Training\GoruntuIsleme\GoruntuIsleme\obj\Debug\GoruntuIsleme.Properties.Resources.resources
+C:\Users\kurban\Box Sync\C# Training\GoruntuIsleme\GoruntuIsleme\obj\Debug\GoruntuIsleme.csproj.GenerateResource.Cache
+C:\Users\kurban\Box Sync\C# Training\GoruntuIsleme\GoruntuIsleme\obj\Debug\GoruntuIsleme.exe
+C:\Users\kurban\Box Sync\C# Training\GoruntuIsleme\GoruntuIsleme\obj\Debug\GoruntuIsleme.pdb
+C:\Users\kurban\Desktop\GoruntuIsleme2\GoruntuIsleme\bin\Debug\GoruntuIsleme.exe.config
+C:\Users\kurban\Desktop\GoruntuIsleme2\GoruntuIsleme\bin\Debug\GoruntuIsleme.exe
+C:\Users\kurban\Desktop\GoruntuIsleme2\GoruntuIsleme\bin\Debug\GoruntuIsleme.pdb
+C:\Users\kurban\Desktop\GoruntuIsleme2\GoruntuIsleme\obj\Debug\GoruntuIsleme.csprojResolveAssemblyReference.cache
+C:\Users\kurban\Desktop\GoruntuIsleme2\GoruntuIsleme\obj\Debug\GoruntuIsleme.Form1.resources
+C:\Users\kurban\Desktop\GoruntuIsleme2\GoruntuIsleme\obj\Debug\GoruntuIsleme.Form2.resources
+C:\Users\kurban\Desktop\GoruntuIsleme2\GoruntuIsleme\obj\Debug\GoruntuIsleme.Properties.Resources.resources
+C:\Users\kurban\Desktop\GoruntuIsleme2\GoruntuIsleme\obj\Debug\GoruntuIsleme.csproj.GenerateResource.Cache
+C:\Users\kurban\Desktop\GoruntuIsleme2\GoruntuIsleme\obj\Debug\GoruntuIsleme.exe
+C:\Users\kurban\Desktop\GoruntuIsleme2\GoruntuIsleme\obj\Debug\GoruntuIsleme.pdb
+D:\Desktop\GoruntuIsleme2\GoruntuIsleme\bin\Debug\GoruntuIsleme.exe.config
+D:\Desktop\GoruntuIsleme2\GoruntuIsleme\bin\Debug\GoruntuIsleme.exe
+D:\Desktop\GoruntuIsleme2\GoruntuIsleme\bin\Debug\GoruntuIsleme.pdb
+D:\Desktop\GoruntuIsleme2\GoruntuIsleme\obj\Debug\GoruntuIsleme.csprojResolveAssemblyReference.cache
+D:\Desktop\GoruntuIsleme2\GoruntuIsleme\obj\Debug\GoruntuIsleme.Form1.resources
+D:\Desktop\GoruntuIsleme2\GoruntuIsleme\obj\Debug\GoruntuIsleme.Form2.resources
+D:\Desktop\GoruntuIsleme2\GoruntuIsleme\obj\Debug\GoruntuIsleme.Properties.Resources.resources
+D:\Desktop\GoruntuIsleme2\GoruntuIsleme\obj\Debug\GoruntuIsleme.csproj.GenerateResource.Cache
+D:\Desktop\GoruntuIsleme2\GoruntuIsleme\obj\Debug\GoruntuIsleme.exe
+D:\Desktop\GoruntuIsleme2\GoruntuIsleme\obj\Debug\GoruntuIsleme.pdb
+D:\Desktop\GoruntuIsleme\GoruntuIsleme\bin\Debug\GoruntuIsleme.exe.config
+D:\Desktop\GoruntuIsleme\GoruntuIsleme\bin\Debug\GoruntuIsleme.exe
+D:\Desktop\GoruntuIsleme\GoruntuIsleme\bin\Debug\GoruntuIsleme.pdb
+D:\Desktop\GoruntuIsleme\GoruntuIsleme\obj\Debug\GoruntuIsleme.csprojResolveAssemblyReference.cache
+D:\Desktop\GoruntuIsleme\GoruntuIsleme\obj\Debug\GoruntuIsleme.Form1.resources
+D:\Desktop\GoruntuIsleme\GoruntuIsleme\obj\Debug\GoruntuIsleme.Form2.resources
+D:\Desktop\GoruntuIsleme\GoruntuIsleme\obj\Debug\GoruntuIsleme.Properties.Resources.resources
+D:\Desktop\GoruntuIsleme\GoruntuIsleme\obj\Debug\GoruntuIsleme.csproj.GenerateResource.Cache
+D:\Desktop\GoruntuIsleme\GoruntuIsleme\obj\Debug\GoruntuIsleme.exe
+D:\Desktop\GoruntuIsleme\GoruntuIsleme\obj\Debug\GoruntuIsleme.pdb
+D:\Desktop\GoruntuIsleme12\GoruntuIsleme\GoruntuIsleme\bin\Debug\GoruntuIsleme.exe.config
+D:\Desktop\GoruntuIsleme12\GoruntuIsleme\GoruntuIsleme\bin\Debug\GoruntuIsleme.exe
+D:\Desktop\GoruntuIsleme12\GoruntuIsleme\GoruntuIsleme\bin\Debug\GoruntuIsleme.pdb
+D:\Desktop\GoruntuIsleme12\GoruntuIsleme\GoruntuIsleme\obj\Debug\GoruntuIsleme.csprojResolveAssemblyReference.cache
+D:\Desktop\GoruntuIsleme12\GoruntuIsleme\GoruntuIsleme\obj\Debug\GoruntuIsleme.Form1.resources
+D:\Desktop\GoruntuIsleme12\GoruntuIsleme\GoruntuIsleme\obj\Debug\GoruntuIsleme.Form2.resources
+D:\Desktop\GoruntuIsleme12\GoruntuIsleme\GoruntuIsleme\obj\Debug\GoruntuIsleme.Properties.Resources.resources
+D:\Desktop\GoruntuIsleme12\GoruntuIsleme\GoruntuIsleme\obj\Debug\GoruntuIsleme.csproj.GenerateResource.Cache
+D:\Desktop\GoruntuIsleme12\GoruntuIsleme\GoruntuIsleme\obj\Debug\GoruntuIsleme.exe
+D:\Desktop\GoruntuIsleme12\GoruntuIsleme\GoruntuIsleme\obj\Debug\GoruntuIsleme.pdb
+D:\Desktop\GoruntuIsleme\GoruntuIsleme\obj\Debug\GoruntuIsleme.MotionForm.resources
+D:\Desktop\GoruntuIsleme\GoruntuIsleme\obj\Debug\GoruntuIsleme.MotionRegionsForm.resources
+D:\Desktop\GoruntuIsleme\GoruntuIsleme\obj\Debug\GoruntuIsleme.VideoCaptureDeviceForm.resources
+C:\Users\kurban\Box Sync\Karabük Üniversitesi\Sayısal Görüntü İşleme\GoruntuIsleme\GoruntuIsleme\bin\Debug\GoruntuIsleme.exe.config
+C:\Users\kurban\Box Sync\Karabük Üniversitesi\Sayısal Görüntü İşleme\GoruntuIsleme\GoruntuIsleme\bin\Debug\GoruntuIsleme.exe
+C:\Users\kurban\Box Sync\Karabük Üniversitesi\Sayısal Görüntü İşleme\GoruntuIsleme\GoruntuIsleme\bin\Debug\GoruntuIsleme.pdb
+C:\Users\kurban\Box Sync\Karabük Üniversitesi\Sayısal Görüntü İşleme\GoruntuIsleme\GoruntuIsleme\obj\Debug\GoruntuIsleme.csprojResolveAssemblyReference.cache
+C:\Users\kurban\Box Sync\Karabük Üniversitesi\Sayısal Görüntü İşleme\GoruntuIsleme\GoruntuIsleme\obj\Debug\GoruntuIsleme.Form1.resources
+C:\Users\kurban\Box Sync\Karabük Üniversitesi\Sayısal Görüntü İşleme\GoruntuIsleme\GoruntuIsleme\obj\Debug\GoruntuIsleme.Form2.resources
+C:\Users\kurban\Box Sync\Karabük Üniversitesi\Sayısal Görüntü İşleme\GoruntuIsleme\GoruntuIsleme\obj\Debug\GoruntuIsleme.MotionForm.resources
+C:\Users\kurban\Box Sync\Karabük Üniversitesi\Sayısal Görüntü İşleme\GoruntuIsleme\GoruntuIsleme\obj\Debug\GoruntuIsleme.MotionRegionsForm.resources
+C:\Users\kurban\Box Sync\Karabük Üniversitesi\Sayısal Görüntü İşleme\GoruntuIsleme\GoruntuIsleme\obj\Debug\GoruntuIsleme.Properties.Resources.resources
+C:\Users\kurban\Box Sync\Karabük Üniversitesi\Sayısal Görüntü İşleme\GoruntuIsleme\GoruntuIsleme\obj\Debug\GoruntuIsleme.VideoCaptureDeviceForm.resources
+C:\Users\kurban\Box Sync\Karabük Üniversitesi\Sayısal Görüntü İşleme\GoruntuIsleme\GoruntuIsleme\obj\Debug\GoruntuIsleme.csproj.GenerateResource.Cache
+C:\Users\kurban\Box Sync\Karabük Üniversitesi\Sayısal Görüntü İşleme\GoruntuIsleme\GoruntuIsleme\obj\Debug\GoruntuIsleme.exe
+C:\Users\kurban\Box Sync\Karabük Üniversitesi\Sayısal Görüntü İşleme\GoruntuIsleme\GoruntuIsleme\obj\Debug\GoruntuIsleme.pdb
